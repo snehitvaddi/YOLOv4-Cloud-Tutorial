@@ -14,3 +14,5 @@ Here is the Colab Notebook for showing pre-trained YOLOv4 Object Detector on ove
 Here is the Colab Notebook for showing how to TRAIN CUSTOM YOLOv4 OBJECT DETECTOR: https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing
 
 Cheers!
+####### Note:
+YoloV4 doesnot have OpenCV support yet. Instead, you can use YoloV3 for real-time inference.
